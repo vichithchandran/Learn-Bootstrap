@@ -6,13 +6,17 @@
 }
 .pink{
     background: pink;
+    /* font-size: 22px; vertical-alignment(baseline) */
 }
 .orange{
     background: orange;
+    
 }
 .blue{
     background: blue;
+    /* font-size:18px; vertical-alignment(baseline) */
 }
 .green{
     background: greenyellow;
+    /* font-size: 16px; vertical-alignment(baseline) */
 }
